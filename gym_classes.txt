@@ -1,0 +1,6 @@
+1*Yoga*2023 June 21 06:40 PM*MrLau*0102133886*45*4*70.00*Pilates for Advanced
+2*Pilates*2023 July 15 09:30 AM*MsSmith*0123456789*60*61*80.00*Pilates for Beginners
+3*Zumba*2023 August 5 05:00 PM*MrDance*0198765432*50*13*60.00*Dance your way to fitness
+4*Spinning*2023 September 10 07:15 AM*MsCycling*0178901234*45*0*65.00*High-Intensity Cycling
+5*Java*2023 August 22 10:22 PM*MrA*0102933884*30*75*50.00*The testing
+6*hahahaha*1212 December 12 12:12 PM*hhhhh*0105235574*90*100*0.00*hahahahahah

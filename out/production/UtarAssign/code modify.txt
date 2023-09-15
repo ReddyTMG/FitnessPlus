@@ -1,0 +1,18 @@
+AddGymClass:
+line 24: validation of instructor phone
+line 85: didnt save the rating correctly, and the validation when enter higher than 5 stars.
+
+AdminMenu:
+line 13: change the output to show admin menu instead of welcome to...
+
+DisplayGymClass:
+line 22: the format of the display of the class
+
+EditGymClass:
+line 34: phone validation
+line 50: enter class duration, not price
+line 103: rating should be lower than 5 stars
+
+Administrator:
+line 109: add break, otherwise when the admin return from menu will continue enter password.
+line 111: add break, otherwise when the admin return, will remain in the loop.

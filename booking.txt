@@ -1,0 +1,4 @@
+121*2*Pilates*2023 July 15 09:30 AM*MsSmith*0123456789*60*62*80.00*Pilates for Beginners*Paid
+121*1*Yoga*2023 June 21 06:40 PM*MrLau*0102133886*45*7*70.00*Pilates for Advanced*Paid
+121*1*Yoga*2023 June 21 06:40 PM*MrLau*0102133886*45*6*70.00*Pilates for Advanced*Paid
+123*1*Yoga*2023 June 21 06:40 PM*MrLau*0102133886*45*5*70.00*Pilates for Advanced*Paid
